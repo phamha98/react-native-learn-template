@@ -4,10 +4,9 @@
 
 [![Actions](https://i.pinimg.com/564x/32/24/3e/32243e335613dc7846e3cd73c9d2aff9.jpg)](https://github.com/phamha98/react-native-learn-template/actions/workflows/ci.yml) ![Supports Android, iOS, macOS, Windows and Web](https://img.shields.io/badge/platforms-android%20|%20ios%20|%20macos%20|%20windows%20|%20web-lightgrey.svg) ![MIT License](https://img.shields.io/npm/l/@react-native-community/netinfo.svg) [![Lean Core Extracted](https://img.shields.io/badge/Lean%20Core-Extracted-brightgreen.svg)](https://github.com/facebook/react-native/issues/23313)
 
-React Native Network Info API for Android, iOS, macOS, Windows & Web. It allows you to get information on:
-
-* Connection type
-* Connection quality
+React Native learn template is a template that helps developers quickly create projects with available modules
+* Fast
+* Installing the library is no longer difficult
 
 ## Quick start
 start npm package:
