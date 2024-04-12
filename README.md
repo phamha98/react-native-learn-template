@@ -1,8 +1,14 @@
 
 
-# `react-native-learn-template`
+<p align="center">
+  <h1 align="center"> <code>react-native-learn-template</code> </h1>
+</p>
 
-[![Actions](https://github.com/phamha98/react-native-learn-template/image/a.png)](https://github.com/phamha98/react-native-learn-template/actions/workflows/ci.yml) ![Supports Android, iOS, macOS, Windows and Web](https://img.shields.io/badge/platforms-android%20|%20ios%20|%20macos%20|%20windows%20|%20web-lightgrey.svg) ![MIT License](https://img.shields.io/npm/l/@react-native-community/netinfo.svg) [![Lean Core Extracted](https://img.shields.io/badge/Lean%20Core-Extracted-brightgreen.svg)](https://github.com/facebook/react-native/issues/23313)
+<p align="center">
+     <img src="image/a.png" alt="Alt text" width="250" height="250">
+</p>
+
+![Supports Android, iOS, macOS, Windows and Web](https://img.shields.io/badge/platforms-android%20|%20ios%20|%20macos%20|%20windows%20|%20web-lightgrey.svg) ![MIT License](https://img.shields.io/npm/l/@react-native-community/netinfo.svg) [![Lean Core Extracted](https://img.shields.io/badge/Lean%20Core-Extracted-brightgreen.svg)](https://github.com/facebook/react-native/issues/23313)
 
 React Native learn template is a template that helps developers quickly create projects with available modules
 * Fast
