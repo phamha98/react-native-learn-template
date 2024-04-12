@@ -43,7 +43,7 @@ npx react-native init MyApp --template https://github.com/phamha98/react-native-
 | `ios` | `react-native run-ios`|
 | `android` | `react-native run-android`|
 | `android-dev`| `npx react-native run-android --variant=devDebug`|
-| `port`| `adb reverse tcp:8081 tcp:8081`|
+| `8081`| `adb reverse tcp:8081 tcp:8081`|
 | `start` | `react-native start --reset-cache`|
 | `port` | `npx react-native start --port `|
 | `clear` | `watchman watch-del-all`|
