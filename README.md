@@ -2,7 +2,7 @@
 
 # `react-native-learn-template`
 
-[![Actions](https://i.pinimg.com/564x/32/24/3e/32243e335613dc7846e3cd73c9d2aff9.jpg)](https://github.com/phamha98/react-native-learn-template/actions/workflows/ci.yml) ![Supports Android, iOS, macOS, Windows and Web](https://img.shields.io/badge/platforms-android%20|%20ios%20|%20macos%20|%20windows%20|%20web-lightgrey.svg) ![MIT License](https://img.shields.io/npm/l/@react-native-community/netinfo.svg) [![Lean Core Extracted](https://img.shields.io/badge/Lean%20Core-Extracted-brightgreen.svg)](https://github.com/facebook/react-native/issues/23313)
+[![Actions](https://github.com/phamha98/react-native-learn-template/image/a.png)](https://github.com/phamha98/react-native-learn-template/actions/workflows/ci.yml) ![Supports Android, iOS, macOS, Windows and Web](https://img.shields.io/badge/platforms-android%20|%20ios%20|%20macos%20|%20windows%20|%20web-lightgrey.svg) ![MIT License](https://img.shields.io/npm/l/@react-native-community/netinfo.svg) [![Lean Core Extracted](https://img.shields.io/badge/Lean%20Core-Extracted-brightgreen.svg)](https://github.com/facebook/react-native/issues/23313)
 
 React Native learn template is a template that helps developers quickly create projects with available modules
 * Fast
@@ -32,15 +32,26 @@ npx react-native init MyApp --template react-native-learn-template.git
 
 
 #### `Script`
-| script       | action                           
+| script       | description                           
 | ----------- | ---------------------------------  
-| `ios` | `react-native run-ios`|
-| `android` | `react-native run-android`|
-| `android-dev`| `npx react-native run-android --variant=devDebug`|
-| `8081`| `adb reverse tcp:8081 tcp:8081`|
-| `start` | `react-native start --reset-cache`|
-| `port` | `npx react-native start --port `|
-| `clear` | `watchman watch-del-all`|
+| `react-native run-ios`|   `run ios`|
+| `react-native run-android`|`run android`|
+| `npx react-native run-android --variant=devDebug`| `run android variant dev`|
+| `adb reverse tcp:8081 tcp:8081`| `config emulator`|
+| `react-native start --reset-cache`|   `start clean cache`|
+| `npx react-native start --port 3000`| `run port != 8081`|
+| `watchman watch-del-all`|  `clean watchman`|
+| `cd android && ./gradlew clean ` | `clean android` |
+| `export NODE_OPTIONS=--openssl-legacy-provider` |   `nodejs`|
+| `cd ios && pod install ` |   
+| `sudo xcode-select --reset  ` |   
+| `npx jetify    ` |   
+| `export JAVA_HOME='/usr/libexec/java_home -v a.b.c '` |   
+
+
+
+
+
 
 #### `Library`
  
@@ -174,7 +185,7 @@ npx react-native init MyApp --template react-native-learn-template.git
 | `react-navigation-shared-element`|  `^3.1.3`  |
 | `react-redux`|  `^7.2.8`  |
 | `reactotron-react-native`|  `^5.0.3`  |
-| `reanimated-bottom-sheet": "`| `^0.0-alpha.22`|
+| `reanimated-bottom-sheet`| `^0.0-alpha.22`|
 | `redux-persist`|  `^6.0.0`  |
 | `redux-saga`|  `^1.1.3` |
 | `rn-fetch-blob`|  `^0.12.0` |
