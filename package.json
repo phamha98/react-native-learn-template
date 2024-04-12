@@ -1,0 +1,22 @@
+{
+  "name": "react-native-start-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "phamha98",
+  "license": "ISC",
+  "keywords": [
+    "template",
+    "phamha98",
+    "learn-template",
+    "react-native-learn-template",
+    "react-native",
+    "react",
+    "native",
+    "example",
+    "demo"
+  ]
+}
