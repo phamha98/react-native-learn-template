@@ -10,7 +10,7 @@
 
 ![Supports Android, iOS, macOS, Windows and Web](https://img.shields.io/badge/platforms-android%20|%20ios%20|%20macos%20|%20windows%20|%20web-lightgrey.svg) ![MIT License](https://img.shields.io/npm/l/@react-native-community/netinfo.svg) [![Lean Core Extracted](https://img.shields.io/badge/Lean%20Core-Extracted-brightgreen.svg)](https://github.com/facebook/react-native/issues/23313)
 
-React Native learn template is a template that helps developers quickly create projects with available modules
+react-native-learn-template is a template that helps developers quickly create projects with built-in modules that support TypeScript
 * Fast
 * Installing the library is no longer difficult
 
