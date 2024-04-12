@@ -15,12 +15,6 @@ start npm package:
 npx react-native init MyApp --template react-native-learn-template.git
 ```
 
-or url:
-
-```sh
-npx react-native init MyApp --template https://github.com/phamha98/react-native-learn-template.git
-
-```
 
 ## Module
 * **Types:**
